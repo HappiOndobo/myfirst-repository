@@ -7,4 +7,6 @@
 #i created my github acount , so this will change as from today, every 5days in a week i shall work with git 
 #clone, commite, pull, and finally push my local work to github.
 
+it became a bit difficult but now i uprigth
+
 MR. STUX.pj
